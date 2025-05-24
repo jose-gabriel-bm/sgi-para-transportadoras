@@ -1,4 +1,20 @@
-# sgi-para-transportadoras
+## 🔍 Sistema de Gestao Integrado
+
+Este projeto é um Sistema de Gestão Integrado (SGI) desenvolvido especialmente para transportadoras, com o objetivo de centralizar e otimizar os processos logísticos, operacionais e administrativos da empresa.
+
+A solução permite o controle completo das operações de transporte, incluindo:
+-  Cadastro e gerenciamento de clientes, motoristas, veículos e rotas;
+-  Controle de entregas, com status em tempo real;
+-  Gestão de ocorrências e não conformidades;
+-  Faturamento, controle de fretes e relatórios gerenciais;
+-  Integração com sistemas externos via API, ou raspagem de dados com python;
+-  Painéis com indicadores (KPIs) logísticos.
+
+### 🛠 Linguagens Utilizadas
+
+### 💻 Visão Geral da Interface do Sistema
+
+Abaixo estão algumas telas selecionadas do sistema, exibidas apenas para fins ilustrativos. Por motivos contratuais, não é permitida a divulgação completa da interface, imagens adicionais ou trechos de código-fonte.
 
 ![image](https://github.com/user-attachments/assets/a0f4dbbb-cf9b-44d8-8534-4d282b1b1cc3)
 
